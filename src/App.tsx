@@ -9,6 +9,7 @@ function App() {
       <div id="editor-div">
         <Editor />
       </div>
+      <p>Exemple proposé par <a href="mailto:etienne.blanc@orange.com">Etienne BLANC</a> (<a href="https://cv.etienne-blanc.com/" rel="noopener noreferrer" target="_blank">site</a>)</p>
     </div>
   );
 }
