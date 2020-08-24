@@ -9,7 +9,7 @@ export default () => <SunEditor
         buttonList: buttonList.complex,
         plugins: plugins
     }} 
-    height={window.innerHeight *0.7} 
+    height={window.innerHeight *0.6} 
     placeholder="Commencez votre Refsol ici... Vous pouvez y glisser-deposer ou copier/coller du texte contenant des images."
     autoFocus={true}
     
